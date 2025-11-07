@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useMetaMaskEthersSigner } from "@/hooks/useWallet/useMetaMaskEthersSigner";
 
+// Home page component for the encrypted skill rating hub
+
 export default function Home() {
   const { isConnected } = useMetaMaskEthersSigner();
 
