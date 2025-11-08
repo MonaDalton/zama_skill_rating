@@ -1,5 +1,7 @@
 "use client";
 
+// Dashboard page for viewing rating statistics
+
 import Link from "next/link";
 import { useMetaMaskEthersSigner } from "@/hooks/useWallet/useMetaMaskEthersSigner";
 
