@@ -14,7 +14,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    // Relayer SDK v0.3.0-5 for FHEVM integration
     "@zama-fhe/relayer-sdk": "^0.3.0-5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",

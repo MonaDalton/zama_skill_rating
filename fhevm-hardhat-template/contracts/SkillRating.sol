@@ -7,7 +7,6 @@ import {ZamaEthereumConfig} from "@fhevm/solidity/config/ZamaConfig.sol";
 /// @title Encrypted Skill Rating Hub Contract
 /// @notice A privacy-preserving skill rating platform using FHEVM
 /// @dev All ratings are encrypted and computations are performed on ciphertext
-/// @author Team
 contract SkillRating is ZamaEthereumConfig {
     // ============ Structs ============
     
