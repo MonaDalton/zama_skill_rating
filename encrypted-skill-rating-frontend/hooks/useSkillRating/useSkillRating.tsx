@@ -1,7 +1,5 @@
 "use client";
 
-// Custom hook for SkillRating contract interactions
-
 import { ethers } from "ethers";
 import {
   RefObject,

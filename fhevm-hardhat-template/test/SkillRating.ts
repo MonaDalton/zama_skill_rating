@@ -2,8 +2,6 @@ import { HardhatEthersSigner } from "@nomicfoundation/hardhat-ethers/signers";
 import { ethers, fhevm } from "hardhat";
 import { SkillRating, SkillRating__factory } from "../types";
 import { expect } from "chai";
-
-// SkillRating contract test suite
 import { FhevmType } from "@fhevm/hardhat-plugin";
 
 type Signers = {

@@ -3,8 +3,6 @@
 A Hardhat-based template for developing Fully Homomorphic Encryption (FHE) enabled Solidity smart contracts using the
 FHEVM protocol by Zama.
 
-<!-- Project initialization and setup documentation -->
-
 ## Quick Start
 
 For detailed instructions see:

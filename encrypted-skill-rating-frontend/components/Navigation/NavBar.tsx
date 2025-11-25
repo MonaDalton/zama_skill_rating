@@ -1,7 +1,5 @@
 "use client";
 
-// Navigation bar component
-
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useMetaMask } from "@/hooks/useWallet/useMetaMaskProvider";
